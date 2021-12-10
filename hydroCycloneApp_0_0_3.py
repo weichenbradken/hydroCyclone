@@ -8,7 +8,6 @@ import io
 import streamlit.components.v1 as components
 from openpyxl import load_workbook
 #import plotly.graph_objects as go
-from fpdf import FPDF
 import base64
 # SETTING PAGE CONFIG TO WIDE MODE
 #st.set_page_config(layout="wide")
